@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Volkan Şener.</h1>
 <h3 align="center">I am interested in software and business ideas. I enjoy using computers and am interested in all areas related to computing, but currently, I am learning and improving myself in the C# programming language.</h3>
 
-- 🌱 I’m currently learning **C#** **SQL**
+- 🌱 I’m currently learning **C#** , **SQL**
 
 - 📫 How to reach me **volkanvssener@hotmail.com** 
 
