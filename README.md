@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Volkan Şener</h1>
+<h1 align="center">Hi 👋</h1>
 
 - 🌱 I’m currently learning **C# , MSSQL**
 
