@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">Hi there 👋</h1>
 
 - 🌱 I’m currently learning **C#,MSSQL,HTML,CSS**
 
