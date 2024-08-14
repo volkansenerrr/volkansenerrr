@@ -12,6 +12,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=volkansenerrr&layout=compact&hide_border=true)
 
-## GitHub İstatistiklerim
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=volkansenerrr&show_icons=true&hide_border=true)
