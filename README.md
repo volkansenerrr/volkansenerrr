@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋</h1>
+<h2 align="center">Hi there 👋</h2>
 
 <p>I am Volkan Şener.</p>  
 
