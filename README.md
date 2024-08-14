@@ -1,5 +1,8 @@
 <h1 align="center">Hi there 👋</h1>
 
+<p>I am Volkan Şener.</p>  
+
+<p>I work on web development. Additionally, I am interested in cybersecurity and artificial intelligence.</p>
 
 
 <h3 align="left">Connect with me:</h3>
