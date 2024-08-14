@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 
-- 🌱 I’m currently learning **C#,MSSQL,HTML,CSS**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
