@@ -14,8 +14,4 @@ I work on web development. Additionally, I am interested in cybersecurity and ar
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=volkansenerrr&layout=compact&hide_border=true)
 
-<p style="font-size: 18px;">
-    <span style="color: green;">&#9679; C# 93.07%</span><br>
-    <span style="color: purple;">&#9679; CSS 0.60%</span><br>
-    <span style="color: blue;">&#9679; ASP.NET 6.33%</span>
-</p>
+
