@@ -12,7 +12,7 @@ I work on web development. Additionally, I am interested in cybersecurity and ar
 </p>
 
 <br>
-  <h3>En Çok Kullanılan Diller</h3>
+  <h2>En Çok Kullanılan Diller</h2>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=volkansenerrr&layout=compact&hide_border=true)
 
