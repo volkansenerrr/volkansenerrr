@@ -1,4 +1,5 @@
-Hi there 👋<br><br>
+Hi there 👋
+<br>
 I am Volkan Şener.
  
 <p>I work on web development. Additionally, I am interested in cybersecurity and artificial intelligence.</p>
