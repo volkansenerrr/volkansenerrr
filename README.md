@@ -1,8 +1,8 @@
 Hi there 👋
 <br>
 I am Volkan Şener.
- 
-<p>I work on web development. Additionally, I am interested in cybersecurity and artificial intelligence.</p>
+<br>
+I work on web development. Additionally, I am interested in cybersecurity and artificial intelligence.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
