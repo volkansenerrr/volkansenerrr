@@ -2,7 +2,7 @@
 <br>
 I am Volkan Şener.
 <br><br>
-I work on web development. Additionally, I am interested in cybersecurity and artificial intelligence.
+I work on web development. Additionally, I am interested in cybersecurity.
 <br><br>
 
 <h2 align="left">Connect with me:</h2>
