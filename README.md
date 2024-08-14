@@ -1,6 +1,8 @@
-#Hi there 👋
-I am Volkan Şener.  
-
+<div align="left">
+Hi there 👋
+I am Volkan Şener.
+</div>
+ 
 <p>I work on web development. Additionally, I am interested in cybersecurity and artificial intelligence.</p>
 
 <h3 align="left">Connect with me:</h3>
