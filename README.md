@@ -1,7 +1,5 @@
-<div align="left">
-Hi there 👋
+Hi there 👋<br><br>
 I am Volkan Şener.
-</div>
  
 <p>I work on web development. Additionally, I am interested in cybersecurity and artificial intelligence.</p>
 
