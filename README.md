@@ -1,9 +1,4 @@
 <h1 align="center">Hi there👋</h1>
-<br>
-I am Volkan Şener.
-<br><br>
-
-<br><br>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
