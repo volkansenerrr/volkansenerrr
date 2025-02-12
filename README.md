@@ -3,7 +3,7 @@
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/-volkansener-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="-volkansener-" height="30" width="40" /></a>
-<a href="https://instagram.com/volkansenerson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="volkansenerson" height="30" width="40" /></a>
+<a href="https://instagram.com/volkansenerrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="volkansenerson" height="30" width="40" /></a>
 </p>
 
 <br>
