@@ -8,7 +8,7 @@
 <br>
   <h2>En Çok Kullanılan Diller</h2>
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/languages?username=volkansenerrr)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=default)
 
 
 
