@@ -8,7 +8,7 @@
 <br>
   <h2>En Çok Kullanılan Diller</h2>
 
-![Top Langs](https://GERCEK-VERCEL-DOMAININ.vercel.app/api/top-langs/?username=volkansenerrr&layout=compact&hide_border=true)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/languages?username=volkansenerrr)
 
 
 
